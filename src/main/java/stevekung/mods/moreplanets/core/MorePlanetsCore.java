@@ -91,7 +91,7 @@ import stevekung.mods.moreplanets.planets.polongnius.schematics.SchematicTier5Ro
 import stevekung.mods.moreplanets.planets.siriusb.recipe.CraftingRecipesSiriusB;
 import stevekung.mods.moreplanets.planets.venus.recipe.CraftingRecipesVenus;
 
-@Mod(modid = MorePlanetsCore.MOD_ID, name = MorePlanetsCore.NAME, version = MorePlanetsCore.VERSION, dependencies = "required-after:GalacticraftCore; required-after:GalacticraftMars; required-after:Micdoodlecore; after:Forge@[10.13.2.1291,);", guiFactory = "stevekung.mods.moreplanets.core.ConfigGuiFactoryMP")
+@Mod(modid = MorePlanetsCore.MOD_ID, name = MorePlanetsCore.NAME, version = MorePlanetsCore.VERSION, dependencies = "required-after:GalacticraftCore; required-after:GalacticraftMars; after:Forge@[10.13.2.1291,);", guiFactory = "stevekung.mods.moreplanets.core.ConfigGuiFactoryMP")
 public class MorePlanetsCore
 {
     public static final String NAME = "More Planets";

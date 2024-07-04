@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "moreplanets",
+    "name": "More Planets",
+    "description": "More Planets Fork for Fresh Start modpack.",
+    "version": "${1.0}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Maruooki"],
+    "credits": "SteveKung for the original mod, GalacticCraft-Team for the GC Mod.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
